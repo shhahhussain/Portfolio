@@ -28,7 +28,7 @@ function App() {
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <NavBar />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/Portfolio" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/project" element={<Projects />} />
           <Route path="/resume" element={<Resume />} />
