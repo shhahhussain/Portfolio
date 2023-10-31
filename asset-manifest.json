@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.78fd04b0.css",
-    "main.js": "/Portfolio/static/js/main.b36340bb.js",
+    "main.css": "/Portfolio/static/css/main.b2e66af7.css",
+    "main.js": "/Portfolio/static/js/main.72749aee.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/shadiyana.png": "/Portfolio/static/media/shadiyana.1b82b53ff28bcb047b3d.png",
     "static/media/water-delivery-project.png": "/Portfolio/static/media/water-delivery-project.be5d32aaf19ab268951f.png",
@@ -13,12 +13,12 @@
     "static/media/avatar.svg": "/Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
-    "main.78fd04b0.css.map": "/Portfolio/static/css/main.78fd04b0.css.map",
-    "main.b36340bb.js.map": "/Portfolio/static/js/main.b36340bb.js.map",
+    "main.b2e66af7.css.map": "/Portfolio/static/css/main.b2e66af7.css.map",
+    "main.72749aee.js.map": "/Portfolio/static/js/main.72749aee.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78fd04b0.css",
-    "static/js/main.b36340bb.js"
+    "static/css/main.b2e66af7.css",
+    "static/js/main.72749aee.js"
   ]
 }
