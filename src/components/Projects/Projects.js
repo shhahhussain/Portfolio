@@ -62,7 +62,7 @@ const backEnd = [
   {
     imgPath: laptopImg,
     title: "Iqra model school ",
-    description: "A freelance project built bakcend as well in Node js ",
+    description: "A freelance project built backend in Node js with Express js",
     ghLink: "https://github.com/shhahhussain",
     demoLink: "",
   },
